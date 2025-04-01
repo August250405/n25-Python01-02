@@ -1,5 +1,3 @@
-print("Olá mundo")
-print("Olá mundo")
-print("teste ")
+print('Olá mundo')
 
 
